@@ -1,9 +1,8 @@
 # FirstTimers
-
+## Steps:
 ```
 git init
 ```
-
 ```
 git branch YourBranchName
 ```
