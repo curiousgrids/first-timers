@@ -12,7 +12,7 @@ git branch YourBranchName
 git checkout YourBranchName
 ```
 
-Make a file in ```contributors``` with ```firstname_lastname.txt```
+Make a file in ```contributors``` folder with ```FirstName_LastName.txt```
 
 ```
 git add .
