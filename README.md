@@ -1,6 +1,8 @@
 # FirstTimers
 
-`git init`
+```
+git init
+```
 
 ```git branch YourBranchName```
 
