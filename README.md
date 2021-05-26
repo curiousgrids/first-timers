@@ -1,5 +1,6 @@
 # FirstTimers
-## Steps:
+## STEPS:
+1. Initialize Git folder
 ```
 git init
 ```
