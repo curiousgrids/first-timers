@@ -1,6 +1,5 @@
 # FirstTimers
 ## STEPS:
-1. Initialize Git folder
 ```
 git init
 ```
@@ -24,7 +23,7 @@ git checkout branch master
 git merge YourBranchName
 ```
 ```
-git remote add <message> url
+git remote add <message> https://github.com/CuriousGrids/FirstTimers.git
 ```
 ```
 git push -u <message> master
