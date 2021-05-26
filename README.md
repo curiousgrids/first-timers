@@ -13,6 +13,7 @@ git branch YourBranchName
 git checkout YourBranchName
 ```
 Make a file in ```contributors``` folder with ```FirstName_LastName.txt```
+
 4. Add all the changes you've made.
 ```
 git add .
