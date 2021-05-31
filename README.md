@@ -1,5 +1,7 @@
 # FirstTimers
-## STEPS:
+
+## How to contribute?
+### STEPS:
 1. Initialize git repository.
 ```
 git init
