@@ -40,3 +40,5 @@ git remote add <message> https://github.com/CuriousGrids/FirstTimers.git
 ```
 git push -u <message> master
 ```
+
+## Contributors list:-
