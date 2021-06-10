@@ -14,7 +14,7 @@ git branch YourBranchName
 ```
 git checkout YourBranchName
 ```
-Make a file in ```contributors``` folder with ```FirstName_LastName.txt```
+Add your name under ```contributors list``` in README.md with format ```FirstName_LastName```
 
 4. Add all the changes you've made.
 ```
@@ -41,4 +41,4 @@ git remote add <message> https://github.com/CuriousGrids/FirstTimers.git
 git push -u <message> master
 ```
 
-## Contributors list:-
+## Contributors list :-
