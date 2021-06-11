@@ -39,7 +39,7 @@ git commit -m 'your_message'
 ```
 6. Shift to the master branch.
 ```
-git checkout branch master
+git checkout master
 ```
 7. Merge everything from your branch to the master branch.
 ```
