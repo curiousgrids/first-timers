@@ -1,5 +1,5 @@
 # FirstTimers
-
+<img src="https://github.com/AkhileshThite/Portfolio/blob/main/Logos/git-github.jpg"></img>
 ## How to contribute?
 ### STEPS:
 1. Initialize git repository.
