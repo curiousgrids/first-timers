@@ -1,7 +1,21 @@
 # FirstTimers
 <img src="https://github.com/AkhileshThite/Portfolio/blob/main/Logos/git-github.jpg"></img>
-## How to contribute?
-### STEPS:
+
+## Install git
+git installation
+https://git-scm.com/downloads
+
+To check the git version
+```
+git --vesrion
+```
+To set the global git username & email address
+```
+git config --global user.name "your name"
+git config --global user.email "your email"
+```
+
+### STEPS to contribute:
 1. Initialize git repository.
 ```
 git init
