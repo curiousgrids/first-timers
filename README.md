@@ -1,8 +1,7 @@
 # FirstTimers
 <img src="https://github.com/AkhileshThite/Portfolio/blob/main/Logos/git-github.jpg"></img>
 
-## Install git
-git installation
+## git installation
 https://git-scm.com/downloads
 
 To check the git version
@@ -15,7 +14,7 @@ git config --global user.name "your name"
 git config --global user.email "your email"
 ```
 
-### STEPS to contribute:
+## STEPS to contribute:
 1. Initialize git repository.
 ```
 git init
