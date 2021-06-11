@@ -2,7 +2,7 @@
 <img src="https://github.com/AkhileshThite/Portfolio/blob/main/Logos/git-github.jpg"></img>
 
 ## git installation
-https://git-scm.com/downloads
+Install git from this link:- https://git-scm.com/downloads
 
 To check the git version
 ```
@@ -55,3 +55,4 @@ git push -u <message> master
 ```
 
 ## Contributors list :-
+•
