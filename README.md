@@ -39,7 +39,7 @@ git commit -m 'your_message'
 ```
 6. Shift to the master branch.
 ```
-git checkout master
+git checkout main
 ```
 7. Merge everything from your branch to the master branch.
 ```
@@ -51,7 +51,7 @@ git remote add <message> https://github.com/CuriousGrids/FirstTimers.git
 ```
 9. Push everything on your forked repository.
 ```
-git push -u <message> master
+git push -u <message> main
 ```
 
 ## Contributors list :-
