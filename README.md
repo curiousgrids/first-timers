@@ -56,5 +56,5 @@ git push -u <message> main
 
 ## Contributors list :-
 Firstname_Lastname
-Hrishikesh_Thite
+1. Hrishikesh Thite
 
