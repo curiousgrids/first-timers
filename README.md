@@ -60,5 +60,5 @@ Firstname_Lastname
 
 
 <a href = "https://github.com/CuriousGrids/FirstTimers/graphs/contributors">
-  <img src = "https://contrib.rocks/image?repo = CuriousGrids/FirstTimers"/>
+  <img src = "https://contrib.rocks/image?repo = CuriousGrids/FirstTimers" />
 </a>
