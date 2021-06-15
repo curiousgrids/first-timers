@@ -59,6 +59,6 @@ Firstname_Lastname
 1. Hrishikesh Thite
 
 
-<a href = "https://github.com/Tanu-N-Prabhu/Python/graphs/contributors">
+<a href = "https://github.com/CuriousGrids/FirstTimers/graphs/contributors">
   <img src = "https://contrib.rocks/image?repo = CuriousGrids/FirstTimers"/>
 </a>
