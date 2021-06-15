@@ -1,6 +1,9 @@
 # FirstTimers
 <img src="https://github.com/AkhileshThite/Portfolio/blob/main/Logos/git-github.jpg"></img>
 
+## Video Explanation
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1Bv4bhtNIaA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## git installation
 Install git from this link:- https://git-scm.com/downloads
 
@@ -57,8 +60,3 @@ git push -u <message> main
 ## Contributors list :-
 Firstname_Lastname
 1. Hrishikesh Thite
-
-
-<a href = "https://github.com/CuriousGrids/FirstTimers/graphs/contributors">
-  <img src = "https://contrib.rocks/image?repo = CuriousGrids/FirstTimers" />
-</a>
