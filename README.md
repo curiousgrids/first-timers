@@ -1,8 +1,6 @@
 # FirstTimers
+Video explanation:- https://youtu.be/1Bv4bhtNIaA
 <img src="https://github.com/AkhileshThite/Portfolio/blob/main/Logos/git-github.jpg"></img>
-
-## Video Explanation
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1Bv4bhtNIaA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## git installation
 Install git from this link:- https://git-scm.com/downloads
