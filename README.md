@@ -1,5 +1,5 @@
 # FirstTimers
-Video explanation:- https://youtu.be/1Bv4bhtNIaA
+📺 Video explanation:- https://youtu.be/1Bv4bhtNIaA
 
 <img src="https://github.com/AkhileshThite/Portfolio/blob/main/Logos/git-github.jpg"></img>
 
