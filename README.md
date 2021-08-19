@@ -57,7 +57,7 @@ git merge YourBranchName
 ```
 8. Get ready to push from your local machine.
 ```
-git remote add <message> https://github.com/CuriousGrids/FirstTimers.git
+git remote add <message> https://<GitHubToken>@github.com/<username>/<RepositoryName>.git
 ```
 9. Push everything on your forked repository.
 ```
