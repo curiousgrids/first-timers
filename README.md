@@ -60,6 +60,7 @@ git merge YourBranchName
 git remote add <message> https://<GitHubToken>@github.com/<username>/<RepositoryName>.git
 ```
 If you haven't setup your **Personal Access Token** yet, then follow the steps from [here](https://docs.github.com/en/github/authenticating-to-github/keeping-your-account-and-data-secure/creating-a-personal-access-token).
+
 9. Push everything on your forked repository.
 ```
 git push -u <message> main
