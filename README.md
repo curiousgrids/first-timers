@@ -39,7 +39,7 @@ git clone https://github.com/CuriousGrids/FirstTimers.git
 2. Create a new branch.
 
 ```bash
-git branch YourBranchName
+git checkout -b YourBranchName
 ```
 
 3. Shift to that branch from `main` branch.
@@ -90,4 +90,5 @@ Firstname_Lastname
 14. Avid Coder
 15. Rahul Mishra
 16. Harshit Aditya
+17. Riya_Bisht
 
