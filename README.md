@@ -93,4 +93,6 @@ Firstname_Lastname
 17. Sushant Patial
 18. Raghav Gupta
 19. Saloni Jain
-20. Aman Shrivastava
+20. Kinjalk Bajpai
+21. Priyal Palkhiwala
+22. Aman Shrivastava
