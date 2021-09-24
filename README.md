@@ -18,7 +18,7 @@ Install Git from this link:- <https://git-scm.com/downloads>
 To check the Git version
 
 ```bash
-git --vesrion
+git --version
 ```
 
 To set the global Git username & email address
