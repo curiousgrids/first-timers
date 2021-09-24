@@ -62,13 +62,26 @@ git add .
 git commit -m 'your_message'
 ```
 
-6. Push your changes to your fork.
-
+6. Shift to the master branch.
 ```bash
-git push
+git checkout main
 ```
 
-7. Make a pull request in GitHub, and you're done! You have done your first contribution to our project! 🎉
+7. Merge everything from your branch to the master branch.
+```bash
+git merge YourBranchName
+```
+
+8. Get ready to push from your local machine.
+```bash
+git remote add <message> https://<GitHubToken>@github.com/<username>/<RepositoryName>.git
+```
+If you haven't setup your Personal Access Token yet, then follow the steps from [here](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token).
+
+9. Push everything on your forked repository.
+```bash
+git push -u <message> main
+```
 
 ## Contributors list
 
