@@ -63,22 +63,27 @@ git commit -m 'your_message'
 ```
 
 6. Shift to the master branch.
+
 ```bash
 git checkout main
 ```
 
 7. Merge everything from your branch to the master branch.
+
 ```bash
 git merge YourBranchName
 ```
 
 8. Get ready to push from your local machine.
+
 ```bash
 git remote add <message> https://<GitHubToken>@github.com/<username>/<RepositoryName>.git
 ```
+
 If you haven't setup your Personal Access Token yet, then follow the steps from [here](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token).
 
 9. Push everything on your forked repository.
+
 ```bash
 git push -u <message> main
 ```
@@ -112,3 +117,4 @@ Firstname_Lastname
 23. Akshay Mohan
 24. Nishant Shenoy
 25. Narayan Soni
+26. Faraz Hussain
