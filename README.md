@@ -104,7 +104,7 @@ Firstname_Lastname
 10. Pooja Bennabhaktula
 11. Pranay Gupta
 12. Km Pooja
-13. Pranav_Singh
+13. Pranav Singh
 14. Avid Coder
 15. Rahul Mishra
 16. Harshit Aditya
@@ -122,11 +122,12 @@ Firstname_Lastname
 28. Siddharth Sabale
 29. Ishika Saha
 30. Ashish Jaiswal
-31. Ishika_Jaiswal
-32. Ramya_Chinnadurai
-33. Suraj_P
+31. Ishika Jaiswal
+32. Ramya Chinnadurai
+33. Suraj P
 34. MuhammadNurAshiddiqi
 35. JonMoon
-36. Harshit_Vishwakarma
-37. Skyrub_dev
-38. Hritvik_Mohan
+36. Harshit Vishwakarma
+37. Skyrub dev
+38. Aman Upadhyay
+39. Hritvik Mohan
