@@ -80,7 +80,7 @@ git merge YourBranchName
 git remote add <message> https://<GitHubToken>@github.com/<username>/<RepositoryName>.git
 ```
 
-If you haven't setup your Personal Access Token yet, then follow the steps from [here](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token).
+If you haven't setup your Personal Access Token (PAT) yet, then follow the steps from [here](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token).
 
 9. Push everything on your forked repository.
 
@@ -90,7 +90,7 @@ git push -u <message> main
 
 ## Contributors list
 
-Firstname_Lastname
+Firstname Lastname
 
 1. Hrishikesh Thite
 2. Yashoda Rajmani
