@@ -50,31 +50,37 @@ git checkout YourBranchName
 
 Add your name under `contributors list` in README.md with format `FirstName_LastName`
 
-4. Add all the changes you've made.
+4. Add all the changes from a single file you've made.
+
+```bash
+git add YourFileName
+```
+
+5. Add all the changes you've made.
 
 ```bash
 git add .
 ```
 
-5. Make a commit with a message of the changes you've done.
+6. Make a commit with a message of the changes you've done.
 
 ```bash
 git commit -m 'your_message'
 ```
 
-6. Shift to the master branch.
+7. Shift to the master branch.
 
 ```bash
 git checkout main
 ```
 
-7. Merge everything from your branch to the master branch.
+8. Merge everything from your branch to the master branch.
 
 ```bash
 git merge YourBranchName
 ```
 
-8. Get ready to push from your local machine.
+9. Get ready to push from your local machine.
 
 ```bash
 git remote add <message> https://<GitHubToken>@github.com/<username>/<RepositoryName>.git
@@ -82,7 +88,7 @@ git remote add <message> https://<GitHubToken>@github.com/<username>/<Repository
 
 If you haven't setup your Personal Access Token (PAT) yet, then follow the steps from [here](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token).
 
-9. Push everything on your forked repository.
+10. Push everything on your forked repository.
 
 ```bash
 git push -u <message> main
@@ -132,3 +138,4 @@ Firstname Lastname
 38. Aman Upadhyay
 39. Hritvik Mohan
 40. Kushagra Jaiswal
+41. Hamda Fizal
