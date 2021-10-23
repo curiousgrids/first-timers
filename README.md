@@ -88,7 +88,7 @@ If you haven't setup your Personal Access Token (PAT) yet, then follow the steps
 git push -u <message> main
 ```
 
-## Contributors list
+## Contributor's list
 
 Firstname Lastname
 
@@ -132,3 +132,4 @@ Firstname Lastname
 38. Aman Upadhyay
 39. Hritvik Mohan
 40. Kushagra Jaiswal
+41. Rishika Garg
