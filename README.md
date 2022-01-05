@@ -6,8 +6,6 @@
 
 <div align="center">
   <img src="https://visitor-badge.glitch.me/badge?page_id=CuriousGrids.FirstTimers" alt="visitors" />
-  <img src="https://img.shields.io/github/issues/CuriousGrids/FirstTimers" alt="GitHub issues" />
-  <!--<img src="https://img.shields.io/github/issues-pr/CuriousGrids/FirstTimers" alt="GitHub pull requests" />-->
   <img src="https://img.shields.io/github/issues-search/CuriousGrids/FirstTimers?label=merged%20PRs&query=is%3Apr+is%3Aclosed+is%3Amerged&color=purple" alt="Merged Pull Requests" />
 </div>
 
