@@ -28,10 +28,15 @@ git config --global user.email "your email"
 
 ## STEPS to contribute
 
-1. Clone the repository using HTTPS.
+1. Clone the repository using HTTPS or SSH (If you don't have 2FA enabled).
 
 ```bash
 git clone https://github.com/CuriousGrids/FirstTimers.git
+```
+
+or PAT, more about it in the STEP 8.
+```bash
+git clone https://<GitHubToken>@github.com/<username>/<RepositoryName>.git
 ```
 
 2. Create a new branch.
@@ -74,11 +79,15 @@ git merge YourBranchName
 
 8. Get ready to push from your local machine.
 
+If you don't have 2FA enabled, then use the normal HTTPS or SSH link.
+```bash
+git remote add <message> https://github.com/CuriousGrids/FirstTimers.git
+```
+
+Personal Access Token (PAT) is required if you enable 2FA on your Github account [[link]](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token).
 ```bash
 git remote add <message> https://<GitHubToken>@github.com/<username>/<RepositoryName>.git
 ```
-
-If you haven't setup your Personal Access Token (PAT) yet, then follow the steps from [here](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token).
 
 9. Push everything on your forked repository.
 
