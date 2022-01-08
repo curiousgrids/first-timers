@@ -65,7 +65,7 @@ git add .
 5. Make a commit with a message of the changes you've done. Learn more about conventional commits [here](https://www.conventionalcommits.org/en/v1.0.0/).
 
 ```bash
-git commit -m 'your_message'
+git commit -m 'Add my contribution'
 ```
 
 6. Shift to the master branch.
