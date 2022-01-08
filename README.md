@@ -28,6 +28,8 @@ git config --global user.email "your email"
 
 ## STEPS to contribute
 
+Before you follow all these STEPS, make sure you `fork` the repository in your account.
+
 1. Clone the repository using HTTPS or SSH (If you don't have 2FA enabled).
 
 ```bash
