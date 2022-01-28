@@ -36,7 +36,8 @@ Before you follow all these STEPS, make sure you `fork` the repository in your a
 git clone https://github.com/CuriousGrids/FirstTimers.git
 ```
 
-or PAT, more about it in the STEP 8.
+Personal Access Token (PAT) is required if you enable 2FA on your Github account [[link]](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token).
+For that, use the following command instead of the normal URL command.
 
 ```bash
 git clone https://<GitHubToken>@github.com/<username>/<RepositoryName>.git
@@ -48,7 +49,7 @@ git clone https://<GitHubToken>@github.com/<username>/<RepositoryName>.git
 git branch YourBranchName
 ```
 
-3. Shift to that branch from `main` branch.
+3. Shift to that branch from master (`main`) branch.
 
 ```bash
 git checkout YourBranchName
@@ -62,19 +63,19 @@ Add your name under `contributors list` in README.md with format `FirstName_Last
 git add .
 ```
 
-5. Make a commit with a message of the changes you've done. Learn more about conventional commits [here](https://www.conventionalcommits.org/en/v1.0.0/).
+5. Make a commit message of the changes you've made. Learn more about conventional commits [here](https://www.conventionalcommits.org/en/v1.0.0/).
 
 ```bash
 git commit -m 'Add my contribution'
 ```
 
-6. Shift to the master branch.
+6. Shift to the master (`main`) branch.
 
 ```bash
 git checkout main
 ```
 
-7. Merge everything from your branch to the master branch.
+7. Merge everything from your branch to the master (`main`) branch.
 
 ```bash
 git merge YourBranchName
@@ -89,6 +90,7 @@ git remote add <message> https://github.com/CuriousGrids/FirstTimers.git
 ```
 
 Personal Access Token (PAT) is required if you enable 2FA on your Github account [[link]](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token).
+For that, use the following command instead of the normal URL command.
 
 ```bash
 git remote add <message> https://<GitHubToken>@github.com/<username>/<RepositoryName>.git
@@ -99,6 +101,8 @@ git remote add <message> https://<GitHubToken>@github.com/<username>/<Repository
 ```bash
 git push -u <message> main
 ```
+
+Now, click on `Pull Request` button, you'll have the option to **create a pull request**. i.e., `<your forked repo> -> <original repo>`, That's it you're done! 
 
 ## Contributor's list
 
