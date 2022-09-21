@@ -103,7 +103,7 @@ git remote add <message> https://<GitHubToken>@github.com/<username>/<Repository
 git push -u <message> main
 ```
 
-Now, click on `Pull Request` button, you'll have the option to **create a pull request**. i.e., `<your forked repo> -> <original repo>`, That's it you're done! 
+Now, click on `Pull Request` button, you'll have the option to **create a pull request**. i.e., `<your forked repo> -> <original repo>`, That's it you're done!
 
 ## Contributor's list
 
@@ -172,3 +172,4 @@ Firstname Lastname
 61. Divya
 62. Raj
 63. Ghada
+64. Anushree Pal
