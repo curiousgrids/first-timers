@@ -33,6 +33,7 @@ Before you follow all these STEPS, make sure you `fork` the repository in your a
 1. Clone the repository.
 
 If you don't have 2FA enabled, then use the normal HTTPS or SSH link.
+
 ```bash
 git clone https://github.com/CuriousGrids/FirstTimers.git
 ```
@@ -180,3 +181,4 @@ Firstname Lastname
 69. Fadhel Alanazi
 70. Raghad Alsarhan
 71. Matteo Spada
+72. Marcin Suski
