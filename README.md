@@ -91,7 +91,7 @@ If you don't have 2FA enabled, then use the normal HTTPS or SSH link.
 git remote add <message> https://github.com/CuriousGrids/FirstTimers.git
 ```
 
-Personal Access Token (PAT) is required if you enable 2FA on your Github account [[link]](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token).
+Personal Access Token (PAT) is required if you enable 2FA on your Github account, [learn more](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token).
 For that, use the following command instead of the normal URL command.
 
 ```bash
